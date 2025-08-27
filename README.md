@@ -14,7 +14,7 @@
 </p>
 
 
-Previously an undergraduate researcher, I am motivated by curiosity and the power of technology as a tool for positive change.
+Previously a Research Assistant in cellular automata, I am motivated by curiosity and the power of technology as a tool for positive change.
 
 See [my website](https://sal-adrian.github.io/) for more information!
 
